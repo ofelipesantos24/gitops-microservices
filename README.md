@@ -22,5 +22,7 @@ Projeto desenvolvido para praticar GitOps usando ArgoCD e Kubernetes, automatiza
 - Todos os microserviços estão rodando no cluster
 
 
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a29d6b6e-b938-4c08-bcbf-87cf6cb70822" />
+  <img width="1920" height="954" alt="Captura de tela 2025-10-06 190124" src="https://github.com/user-attachments/assets/73eb05a1-ba42-4439-bbd7-d9372e718d29" />
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76e05b9f-793b-429a-810b-f8a58931bcf4" />

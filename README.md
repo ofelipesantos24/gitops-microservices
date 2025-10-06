@@ -1,3 +1,4 @@
+
 # Online Boutique – GitOps com ArgoCD e Kubernetes
 
 ## Descrição
@@ -22,3 +23,4 @@ Projeto desenvolvido para praticar GitOps usando ArgoCD e Kubernetes, automatiza
 
 
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a29d6b6e-b938-4c08-bcbf-87cf6cb70822" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76e05b9f-793b-429a-810b-f8a58931bcf4" />

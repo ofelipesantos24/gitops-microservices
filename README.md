@@ -10,8 +10,30 @@ Projeto desenvolvido para praticar GitOps usando ArgoCD e Kubernetes, automatiza
 - Docker instalado
 - Conta e repositório público no GitHub
 - ArgoCD instalado no cluster Kubernetes
+  ## Pré-requisitos
+- Kubernetes (Rancher Desktop ou similar) instalado e configurado  
+- Kubectl funcionando localmente  
+- Docker instalado  
+- Conta e repositório público no GitHub  
+- ArgoCD instalado no cluster Kubernetes  
+# Criar namespace do ArgoCD
+kubectl create namespace argocd
 
-## Como executar
+# Instalar o ArgoCD no cluster
+kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+
+# Verificar os pods do ArgoCD
+kubectl get pods -n argocd
+
+# Fazer port-forward para acessar o painel do ArgoCD
+kubectl port-forward svc/argocd-server -n argocd 8080:443
+
+# Obter a senha inicial do admin
+kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d
+
+# Obter a senha inicial do admin
+kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d
+mo executar
 1. Faça o clone deste repositório.
 2. Importe os manifests YAML no ArgoCD.
 3. Sincronize a aplicação usando o ArgoCD.

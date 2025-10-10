@@ -43,6 +43,12 @@ mo executar
 ## Evidências de funcionamento
 - Todos os microserviços estão rodando no cluster
 
+    ![kurbenetes](https://github.com/user-attachments/assets/c5b095c9-2992-4bf9-8bba-0e3705791a5f)
+    ![kubernetes 2](https://github.com/user-attachments/assets/aa4bd8f8-29bd-48c6-ab90-68185fd738e1)
+
+
+  
+
 
   <img width="1920" height="954" alt="Captura de tela 2025-10-06 190124" src="https://github.com/user-attachments/assets/73eb05a1-ba42-4439-bbd7-d9372e718d29" />
 

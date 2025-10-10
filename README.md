@@ -213,7 +213,7 @@ Abra no navegador:
 👉 http://localhost:8080
 
 <img width="1486" height="759" alt="Captura de tela 2025-10-10 084143" src="https://github.com/user-attachments/assets/70527597-46c2-474b-a37d-c946c21c2f51" />
-<img width="1920" height="898" alt="Captura de tela 2025-10-10 081538" src="https://github.com/user-attachments/assets/7f930496-9203-4589-bd08-b9b7aea9f9b1" />
+
 <img width="1478" height="761" alt="Captura de tela 2025-10-10 084340" src="https://github.com/user-attachments/assets/c1bc24f3-eb18-4e19-b9fd-be6b4cd8b111" />
 
   

@@ -4,12 +4,6 @@
 ## Descrição
 Projeto desenvolvido para praticar GitOps usando ArgoCD e Kubernetes, automatizando o deploy da aplicação Online Boutique composta por múltiplos microserviços.
 
-## Pré-requisitos
-- Kubernetes (Rancher Desktop ou similar) instalado e configurado
-- Kubectl funcionando localmente
-- Docker instalado
-- Conta e repositório público no GitHub
-- ArgoCD instalado no cluster Kubernetes
   ## Pré-requisitos
 - Kubernetes (Rancher Desktop ou similar) instalado e configurado  
 - Kubectl funcionando localmente  
@@ -46,8 +40,7 @@ mo executar
     ![kurbenetes](https://github.com/user-attachments/assets/c5b095c9-2992-4bf9-8bba-0e3705791a5f)
     ![kubernetes 2](https://github.com/user-attachments/assets/aa4bd8f8-29bd-48c6-ab90-68185fd738e1)
 
-  
-Etapas Extras: Integração com GitHub Privado e Helm Charts
+ETAPAS EXTRAS : INTEGRAÇÃO COM GITHUB PRIVADO E HELM CHARTS
 
 ⚙️ Passo a passo do que fazer agora
 1️⃣ Verifique se você tem as chaves SSH
